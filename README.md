@@ -1,8 +1,8 @@
 
 # Technical Scanner
 
-A web-app for finding candlestick patterns in the S&P 500 and signals if a stock is bullish or bearish.
-
+A web-app for finding candlestick patterns in the S&P 500 and signals if a stock is bullish or bearish.\
+The implemented patterns can be found in 'patterns.txt'.
 # Usage
 * yfinance for retrieving stock data of the companies.
 * TA-lib functions of different candlestick patterns.
